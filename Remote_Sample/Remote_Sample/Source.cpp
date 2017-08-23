@@ -7,3 +7,7 @@ int main() {
 	std::cout << a<< std::endl;
 	return 0;
 }
+
+int add(int n, int m) {
+	return n + m;
+}
